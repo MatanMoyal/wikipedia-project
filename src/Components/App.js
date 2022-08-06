@@ -32,7 +32,7 @@ function App() {
     <div className="app">
       <div className="container-app">
         <h1>
-          Matan & Shachar Wikipedia Graduate Project
+          Matan & Shahar Wikipedia Graduate Project
         </h1>
         <header>
           <div className="buttons">
