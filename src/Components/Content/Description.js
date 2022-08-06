@@ -9,4 +9,4 @@ export const Description = ({ nameModel }) => {
             {nameModel === "Regression" && <img src={formula} alt="" />}
         </div>
     )
-};
+}
