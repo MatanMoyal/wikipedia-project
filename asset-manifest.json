@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wikipedia-project/static/css/main.bdf559bf.css",
-    "main.js": "/wikipedia-project/static/js/main.1c58a45d.js",
+    "main.js": "/wikipedia-project/static/js/main.3ee4f660.js",
     "static/media/main.jpg": "/wikipedia-project/static/media/main.508cdaf5bf576003ba5b.jpg",
     "static/media/COVID-19 in Europe english.png": "/wikipedia-project/static/media/COVID-19 in Europe english.f6770d35054ba894d0e0.png",
     "static/media/japan earthquake and tsunami-english.png": "/wikipedia-project/static/media/japan earthquake and tsunami-english.b188a449706caab75f94.png",
@@ -46,10 +46,10 @@
     "static/media/European floods-french.csv": "/wikipedia-project/static/media/European floods-french.6392c8866dba8930a6f6.csv",
     "index.html": "/wikipedia-project/index.html",
     "main.bdf559bf.css.map": "/wikipedia-project/static/css/main.bdf559bf.css.map",
-    "main.1c58a45d.js.map": "/wikipedia-project/static/js/main.1c58a45d.js.map"
+    "main.3ee4f660.js.map": "/wikipedia-project/static/js/main.3ee4f660.js.map"
   },
   "entrypoints": [
     "static/css/main.bdf559bf.css",
-    "static/js/main.1c58a45d.js"
+    "static/js/main.3ee4f660.js"
   ]
 }
